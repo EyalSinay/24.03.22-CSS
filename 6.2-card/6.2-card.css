@@ -1,0 +1,18 @@
+.card{
+    width: 600px;
+    margin: auto;
+    box-shadow: 30px 30px lightblue;
+    background-color: beige;
+}
+
+img{
+    width: 100%;
+}
+
+p, a{
+    margin: 8px;
+}
+
+a{
+    color: brown;
+}

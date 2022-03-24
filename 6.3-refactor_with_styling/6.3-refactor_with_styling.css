@@ -1,0 +1,21 @@
+body{
+    background-color: lightblue;
+    color: brown;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+}
+
+
+.card{
+    width: 600px;
+    margin: auto;
+    border: 2px solid black;
+}
+
+img{
+    width: 100%;
+}
+
+p, a{
+    margin: 8px;
+}
